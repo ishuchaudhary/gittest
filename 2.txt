@@ -1,1 +1,3 @@
 Creating 2.txt file in master branch
+
+Editing 2.txt master branch file in b1 branch
